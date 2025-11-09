@@ -214,7 +214,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Credits
 
-Based on the original [MCP Prompt Optimizer](https://github.com/grandinh/mcp-prompt-optimizer) by Harrison Grandin. This slash command version was adapted for Claude Code to provide a more lightweight, context-efficient implementation.
+Based on the original [MCP Prompt Optimizer](https://github.com/grandinh/mcp-prompt-optimizer) by Grandin Harrison. This slash command version was adapted for Claude Code to provide a more lightweight, context-efficient implementation.
 
 ---
 
